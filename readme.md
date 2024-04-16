@@ -1,4 +1,4 @@
-# description
+# Description
 This is typing test website which make with the help of HTML, CSS & javaScript.
 
 # Working 
